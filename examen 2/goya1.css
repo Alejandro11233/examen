@@ -1,0 +1,28 @@
+a.azul:link{
+    background-color: yellow ;
+    color: blue;
+}
+img.Foto{
+position: relative;;
+right: 300px;
+top: -200px;
+background-color: yellow;
+}
+
+img.Camara{
+    position: relative;
+    right: 300px;
+    top: 0px;
+}
+img.Jaja{
+    position: relative;
+    right:300px ;
+    top: -100px ;
+}
+.rojo{
+color: blue;}
+
+.Goya{
+    background-color: pink;
+    color: blue;
+}
